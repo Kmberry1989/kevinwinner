@@ -2,7 +2,7 @@
 
 Generate each badge as a separate 1024 × 1024 PNG. Use the existing Winner palette: deep navy blue enamel, metallic antique gold, subtle silver highlights. Each prompt below is self-contained. Keep the entire circular badge and shadow inside the central 65% of the square canvas, with at least 17% transparent padding on every side. Show exactly one complete circle, viewed straight on. Use a simple recognizable icon with strong contrast, no words, no letters, no numbers, no watermark, no background scene, and no extra badges. The website supplies the service label beside each image, so text in the artwork is unnecessary and becomes unreadable at small sizes.
 
-Save replacements under the exact filenames shown in `assets/services/`. Copy the four currently used images (`roofing.png`, `interior.png`, `remodeling.png`, and `other-services.png`) into matching paths under `dist/assets/services/` when replacing them.
+The eight generated badges are installed under the exact filenames shown in `assets/services/` and `dist/assets/services/`. All eight appear in the services list. If you regenerate one, replace both copies with the same image.
 
 ## `roofing.png`
 
